@@ -1,0 +1,4 @@
+CHANGED,/Users/Leo/Desktop/Firma/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cl/itec/firma/R$style$override.class
+CHANGED,/Users/Leo/Desktop/Firma/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cl/itec/firma/R$string$override.class
+CHANGED,/Users/Leo/Desktop/Firma/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cl/itec/firma/CapturaFirma$override.class
+CHANGED,/Users/Leo/Desktop/Firma/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

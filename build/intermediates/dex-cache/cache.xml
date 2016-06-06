@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Leo/Desktop/Firma/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42aeb6790f3e57db04363b03091b516630fb6913">
+        <dex dex="/Users/Leo/Desktop/Firma/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_69905bbe512d01928b94c9b125659c69eb4e2a0d/classes.dex" />
+    </item>
+
+</items>
